@@ -1,0 +1,11 @@
+name: "Sokage AI Owner Statement Agent"
+description: "Free, open-source skill that drafts plain-language owner updates from a month-end export. It explains each expense line and stops when the stated totals do not tie out. It is licensed under MIT."
+source_url: "https://github.com/Sokage-AI/owner-statement-agent"
+category: "Open Source"
+tags:
+  - "open-source"
+  - "free"
+  - "ai-powered"
+icon_url: "https://icons.duckduckgo.com/ip3/github.com.ico"
+markdown: "## Pricing\n\nFree. Open Source.\n\n## Links\n\n- Website: <https://sokage.com/agents/owner-statement-agent/>\n- Repository: <https://github.com/Sokage-AI/owner-statement-agent>\n\nLicense: MIT.\n"
+updated_at: "2026-11-25 12:00"
